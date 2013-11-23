@@ -1,0 +1,5 @@
+Just copy the js file nito your js folder and include it on whichever page you want.
+
+Resizer changes the zoom level of the page based on the pixel dimensions available to it when the user
+views the page. This is an attempt at ensuring that all designs scale properly across screens with different
+pixel densities.(Eg. FULL HD screens)
